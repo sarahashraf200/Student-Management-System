@@ -38,7 +38,7 @@ This project serves as a basic Student Management System where you can manage st
 
    ```bash
    git clone https://github.com/sarahashraf200/Student-Management-System.git
-   cd student-management-system
+   cd Student-Managment-System
 ## Build the project   
 mvn clean install
 
