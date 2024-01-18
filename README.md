@@ -8,8 +8,7 @@ A simple Student Management System built with Spring Boot and JPA, allowing CRUD
 - [Features](#features)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
+- [Testing API with Swagger](#testing-api-with-swagger)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -42,4 +41,6 @@ This project serves as a basic Student Management System where you can manage st
 ## Build the project   
 mvn clean install
 
+## Testing API with Swagger
+Access the Swagger UI to test the API interactively by navigating to http://localhost:8080/swagger-ui.html.
 
