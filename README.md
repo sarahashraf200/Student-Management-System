@@ -9,9 +9,6 @@ A simple Student Management System built with Spring Boot and JPA, allowing CRUD
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 - [Testing API with Swagger](#testing-api-with-swagger)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 This project serves as a basic Student Management System where you can manage students, courses, and quizzes. It provides RESTful APIs for various CRUD operations.
